@@ -169,7 +169,7 @@ Properties retrieved from Vault will be used "as-is" without further prefixing o
 
 == Client Side Usage
 
-To use these features in an application, just build it as a Spring Boot application that depends on `spring-cloud-vault-config` (e.g. see the test cases).
+To use these features in an application, just build it as a Spring Boot application that depends on `spring-cloud-starter-vault-config` (e.g. see the test cases).
 Example Maven configuration:
 
 .pom.xml
